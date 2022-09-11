@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hyunku
-- 👀 I’m interested in python, Data analysis, AWS Cloud Computing
-- 🌱 I’m currently learning ... AWS, javascript
+- 👀 I’m interested in python, Data analysis, AWS Cloud Computing, OpenCV
+- 🌱 I’m currently learning ... AWS, django
 - 💞️ I’m looking to collaborate on ... 4N
 - 📫 How to reach me ...
 
