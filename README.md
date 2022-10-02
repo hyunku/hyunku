@@ -36,5 +36,5 @@ You can click the Preview link to take a look at your changes.
 </p>
 <br>
 
-### 📬 About me
+### 📬 Mail me
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=round&logo=Gmail&logoColor=white&link=mailto:kahk1998@gmail.com)](mailto:kahk1998@gmail.com)
