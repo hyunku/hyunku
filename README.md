@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-### 🛠 Tech Stack 🛠
+<h3 align="center"> 🛠 Tech Stack 🛠 </h3>
 <p align="center">
 
 <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
@@ -36,5 +36,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 <br>
 
-### 📬 Mail me
+<h3 align="center"> 📬 Mail me </h3>
+<p align="center">
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=round&logo=Gmail&logoColor=white&link=mailto:kahk1998@gmail.com)](mailto:kahk1998@gmail.com)
+</p>
