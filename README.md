@@ -46,20 +46,21 @@ You can click the Preview link to take a look at your changes.
 <br>
 
 <h3 align="center"> 🛠 Certificate 🛠 </h3>
-<table align="center", style="text-align: center;">
-<thead>
+<table align="center">
+<thead style="text-align: center;">
   <tr>
     <th>Certificate</th>
     <th>Organization</th>
   </tr>
 </thead>
-<tbody>
+<tbody style="text-align: center;">
   <tr>
     <td>ADSP</td>
     <td>한국데이터산업진흥원</td>
   </tr>
 </tbody>
 </table>
+<br>
 
 <h3 align="center"> 📬 Mail me </h3>
 <p align="center">
