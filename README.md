@@ -45,18 +45,18 @@ You can click the Preview link to take a look at your changes.
 </p>
 <br>
 
-<h3 align="center"> 🛠 Certificate 🛠 </h3>
+<h3 align="center"> 👋  Certificate 👋  </h3>
 <table align="center">
 <thead style="text-align: center;">
   <tr>
-    <th>Certificate</th>
-    <th>Organization</th>
+    <th style="text-align: center;">Certificate</th>
+    <th style="text-align: center;">Organization</th>
   </tr>
 </thead>
 <tbody style="text-align: center;">
   <tr>
-    <td>ADSP</td>
-    <td>한국데이터산업진흥원</td>
+    <td style="text-align: center;">ADSP</td>
+    <td style="text-align: center;">한국데이터산업진흥원</td>
   </tr>
 </tbody>
 </table>
