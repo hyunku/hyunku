@@ -42,9 +42,24 @@ You can click the Preview link to take a look at your changes.
 <img src="https://img.shields.io/badge/pycharm-000000?style=for-the-badge&logo=pycharm&logoColor=white">
 <img src="https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=vscode&logoColor=white">
 <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">
-
 </p>
 <br>
+
+<h3 align="center"> 🛠 Certificate 🛠 </h3>
+<table align="center" style="text-align: center;">
+<thead>
+  <tr>
+    <th>Certificate</th>
+    <th>Organization</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>ADSP</td>
+    <td>한국데이터산업진흥원</td>
+  </tr>
+</tbody>
+</table>
 
 <h3 align="center"> 📬 Mail me </h3>
 <p align="center">
