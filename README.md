@@ -49,14 +49,14 @@ You can click the Preview link to take a look at your changes.
 <table align="center">
 <thead style="text-align: center;">
   <tr>
-    <th style="text-align: center;">Certificate</th>
-    <th style="text-align: center;">Organization</th>
+    <th>Certificate</th>
+    <th>Organization</th>
   </tr>
 </thead>
 <tbody style="text-align: center;">
   <tr>
-    <td style="text-align: center;">ADSP</td>
-    <td style="text-align: center;">한국데이터산업진흥원</td>
+    <td>ADSP</td>
+    <td>한국데이터산업진흥원</td>
   </tr>
 </tbody>
 </table>
