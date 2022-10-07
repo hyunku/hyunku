@@ -35,7 +35,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 <br>
 
-<h3 align="center"> 🛠 Tech Stack 🛠 </h3>
+<h3 align="center"> 🛠 Tools 🛠 </h3>
 <p align="center">
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
