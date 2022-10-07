@@ -46,7 +46,7 @@ You can click the Preview link to take a look at your changes.
 <br>
 
 <h3 align="center"> 🛠 Certificate 🛠 </h3>
-<table align="center" style="text-align: center;">
+<table align="center", style="text-align: center;">
 <thead>
   <tr>
     <th>Certificate</th>
