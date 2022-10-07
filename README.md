@@ -48,7 +48,6 @@ You can click the Preview link to take a look at your changes.
 
 <h3 align="center"> 📬 Mail me </h3>
 <p align="center">
-  <a href="https://www.facebook.com/profile.php?id=100003793396250/><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100003793396250/"></a>&nbsp
   <a href="https://www.instagram.com/h.koo__/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/h.koo__/"/></a>&nbsp
   <a href="mailto:kahk000@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kahk000@naver.com"/></a>
 </p>
