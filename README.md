@@ -1,5 +1,5 @@
 <h1 align="center"> 👋 Hi, I’m Hyunku</h1>
-<h4 align="center">👀 I’m interested in python, AWS Cloud Computing, OpenCV</h4>
+<h4 align="center">👀 I’m interested in python, AWS Cloud Computing</h4>
 <h4 align="center">🌱 I’m currently learning ... AWS, opencv, AWS SAA</h4>
 <h4 align="center">💞️ I’m looking to collaborate on ... 4N</h4>
 
