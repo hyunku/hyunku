@@ -1,9 +1,9 @@
 <p align="center"> <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyunku&count_bg=%2306E773&title_bg=%2300BBFF&icon=twoo.svg&icon_color=%23FFB501&title=hits&edge_flat=false"/></a> </p>
 
 <h1 align="center"> 👋 Hi, I’m Hyunku</h1>
-<h4 align="center">👀 I’m interested in python, AWS Cloud Computing</h4>
-<h4 align="center">🌱 I’m currently learning ... AWS, opencv, AWS SAA</h4>
-<h4 align="center">💞️ I’m looking to collaborate on ... 4N</h4>
+<h4 align="center">👀 I’m interested in BCI, Brain signal decoding</h4>
+<h4 align="center">🌱 I’m currently learning ... AWS, DSP, BCI</h4>
+<h4 align="center">💞️ I’m looking to collaborate on ... 4N, NeuroTx, Korea Univ.</h4>
 
 
 <br>
