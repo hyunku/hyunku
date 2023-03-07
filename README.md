@@ -4,7 +4,7 @@
 <h4 align="center">👀 I’m interested in BCI, Brain signal decoding</h4>
 <h4 align="center">🌱 I’m currently learning ... AWS, DSP, BCI</h4>
 <h4 align="center">💞️ I’m looking to collaborate on ... 4N, NeuroTx, Korea Univ.</h4>
-<h4 align="center">✨ I'm studing on Korea Univ. Brain and Congnitive Engineering
+<h4 align="center">✨ I'm studing on Korea Univ. Brain and Congnitive Engineering</h4>
 <br>
 
 <br>
